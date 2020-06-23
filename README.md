@@ -4,6 +4,11 @@ Studying algorithm here
 Samsung Expert Academy 알고리즘을 풀고 있습니다.
 
 [1206. [S/W 문제해결 기본] 1일차 - View](https://github.com/yuminee/algorithm/blob/master/problem.py)
+
+
 [2805. 농작물 수확하기](https://github.com/yuminee/algorithm/blob/master/problem2.py)
+
 [2806. N-Queen](https://swexpertacademy.com/main/code/problem/problemDetail.do)
+
+
 [7701. 염라대왕의 이름 정렬](https://github.com/yuminee/algorithm/blob/master/sorting.py)
