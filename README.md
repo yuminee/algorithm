@@ -23,3 +23,5 @@ Studying algorithm here
 [정렬 문제 3번 H-INDEX](https://github.com/yuminee/algorithm/blob/master/PROGRAMMERS/h_index.py)
 
 [해쉬 문제 1번 완주하지 못한 선수](https://github.com/yuminee/algorithm/blob/master/PROGRAMMERS/maraton.py)
+
+[해쉬 문제 2번 전화번호 목록](https://github.com/yuminee/algorithm/blob/master/PROGRAMMERS/list_of_numbers.py)
