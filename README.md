@@ -20,5 +20,4 @@ Studying algorithm here
 
 [정렬 문제 2번 가장 큰 수](https://github.com/yuminee/algorithm/blob/master/PROGRAMMERS/the_largest_number.py)
 
-[정렬 문제 3번 H-INDEX]
-(https://github.com/yuminee/algorithm/blob/master/PROGRAMMERS/h_index.py)
+[정렬 문제 3번 H-INDEX](https://github.com/yuminee/algorithm/blob/master/PROGRAMMERS/h_index.py)
