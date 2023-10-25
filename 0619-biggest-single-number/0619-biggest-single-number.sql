@@ -1,8 +1,7 @@
 # Write your MySQL query statement below
-select max(num) as num
-from MyNumbers
-where num in (
-    select if(count(num) = 1, num, null)
+select max(n.num) as num
+from (
+    select if(count(num) = 1, num, null) as num
     from MyNumbers
     group by num
-)
+) as n
