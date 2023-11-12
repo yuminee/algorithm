@@ -7,7 +7,7 @@ union all
 (select title as results
 from Movies as m
 inner join MovieRating as mr on mr.movie_id = m.movie_id
-where created_at between "2020-02-01" and "2020-02-29"
+where created_at like "2020-02-%"
 group by m.movie_id
 order by avg(rating) desc, m.title asc limit 1)
 
