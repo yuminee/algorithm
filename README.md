@@ -1,5 +1,10 @@
 # Algorithm
 
+### leetcode Badge
+  ![dcc-2023-6](https://github.com/yuminee/algorithm/assets/33755241/98b64ccf-929a-429a-a4c7-874af265a82a)
+  ![Top_SQL_50](https://github.com/yuminee/algorithm/assets/33755241/6ad353cb-cb95-4961-8801-2dff46d1214e)
+
+
 - 알고리즘 용어
     - Kadane's Algorithm(카데인 알고리즘)
         - [53_maximnum_subarry](https://github.com/yuminee/algorithm/blob/master/LeetCode/53_maximum_subarray.py)
