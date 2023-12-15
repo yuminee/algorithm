@@ -3,6 +3,8 @@
 ### leetcode Badge
   ![dcc-2023-6](https://github.com/yuminee/algorithm/assets/33755241/98b64ccf-929a-429a-a4c7-874af265a82a)
   ![Top_SQL_50](https://github.com/yuminee/algorithm/assets/33755241/6ad353cb-cb95-4961-8801-2dff46d1214e)
+![2023-50](https://github.com/yuminee/algorithm/assets/33755241/6a366ca6-61f1-4fd3-a67f-1defb415ec22)
+
 
 
 - 알고리즘 용어
